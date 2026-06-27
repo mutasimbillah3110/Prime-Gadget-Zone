@@ -1,4 +1,4 @@
-<script>
+
     // ============ FIREBASE CONFIG ============
 const firebaseConfig = {
   apiKey: "*****************************",
