@@ -35,24 +35,7 @@ A modern and user-friendly e-commerce platform for selling gadgets online. Prime
 * Protected customer data
 * Input validation and error handling
 
-## 🏗️ Project Structure
 
-```text
-Prime-Gadget-Zone/
-│
-├── client/
-├── server/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── services/
-│
-├── package.json
-├── README.md
-└── .env
-```
 
 ## 🛠️ Technologies Used
 
